@@ -21,8 +21,8 @@ Developer tools maker. I build things that save developers time.
 
 ### 📝 Writing
 
-- [Zenn](https://zenn.dev/ouchan_ip) — 技術記事
-- [Note](https://note.com/ouchan_ip) — 日々の気づき
+- [Zenn](https://zenn.dev/ouchan_ip) — Technical articles  
+- [Note](https://note.com/ouchan_ip) — Daily insights
 
 ### 📫 Links
 
