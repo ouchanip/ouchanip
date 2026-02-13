@@ -7,8 +7,7 @@ Developer tools maker. I build things that save developers time.
 | Project | Description | Install |
 |---------|-------------|---------|
 | [**env-vault**](https://github.com/ouchanip/env-vault-node) | 🔐 Secure `.env` file encryption for teams (AES-256-GCM) | `npx @ouchanip/env-vault` |
-
-> More coming soon.
+| [**memos-openclaw-local**](https://github.com/ouchanip/memos-openclaw-local) | 🧠 Self-hosted MemOS plugin for OpenClaw — local long-term memory for AI agents | See [article](https://zenn.dev/ouchan_ip/articles/memos-openclaw-selfhosted) |
 
 ### 🛠 Tech Stack
 
@@ -29,3 +28,4 @@ Developer tools maker. I build things that save developers time.
 [![X](https://img.shields.io/badge/-@ouchan__ip-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ouchan_ip)
 [![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/ouchan_ip)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~ouchanip)
+
