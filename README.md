@@ -6,6 +6,7 @@ Developer tools maker. I build things that save developers time.
 
 | Project | Description | Install |
 |---------|-------------|---------|
+| [**opencode-ultra**](https://github.com/ouchanip/opencode-ultra) | 🚀 OpenCode plugin — multi-agent orchestration, self-improvement, AST search | `bun add opencode-ultra` |
 | [**env-vault**](https://github.com/ouchanip/env-vault-node) | 🔐 Secure `.env` file encryption for teams (AES-256-GCM) | `npx @ouchanip/env-vault` |
 | [**memos-openclaw-local**](https://github.com/ouchanip/memos-openclaw-local) | 🧠 Self-hosted MemOS plugin for OpenClaw — local long-term memory for AI agents | See [article](https://zenn.dev/ouchan_ip/articles/memos-openclaw-selfhosted) |
 
