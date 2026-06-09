@@ -21,6 +21,10 @@ Developer tools maker. I build things that save developers time.
 
 - **[memos-openclaw-local](https://github.com/ouchanip/memos-openclaw-local)** — 🧠 Self-hosted MemOS plugin for OpenClaw: local long-term memory for AI agents. See [article](https://zenn.dev/ouchan_ip/articles/memos-openclaw-selfhosted).
 
+### 🤗 Models
+
+- **[lfm2.5-vl-450m-extract-ja-receipt-lora](https://huggingface.co/outxci/lfm2.5-vl-450m-extract-ja-receipt-lora)** — 🧾 LoRA adapter for Japanese receipt OCR / key-information-extraction, fine-tuned on `LiquidAI/LFM2.5-VL-450M-Extract`. Lightweight (450M base) vision model for structured extraction from Japanese receipts.
+
 ### 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -39,4 +43,5 @@ Developer tools maker. I build things that save developers time.
 
 [![X](https://img.shields.io/badge/-@ouchan__ip-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ouchan_ip)
 [![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/ouchan_ip)
+[![Hugging Face](https://img.shields.io/badge/-%F0%9F%A4%97%20outxci-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/outxci)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~ouchanip)
